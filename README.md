@@ -51,7 +51,7 @@ npm install
 npm start
 ```
 
-The server will run on `http://localhost:5000`.
+The server will run on `https://urlshortener-backend-lja7.onrender.com`.
 
 ## 📋 API Endpoints
 
